@@ -1,0 +1,32 @@
+_repo: The-Saint_8455
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Thayer, William Roscoe
+    birthdate: 1859
+    deathdate: 1923
+    gutenberg_agent_id: '887'
+    url: http://www.gutenberg.org/2009/agents/887
+creator:
+  author:
+    agent_name: Fogazzaro, Antonio
+    birthdate: 1842
+    deathdate: 1911
+    gutenberg_agent_id: '2759'
+    url: http://www.gutenberg.org/2009/agents/2759
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Fogazzaro
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italy -- Fiction'
+- GITenberg
+title: The Saint
+url: http://www.gutenberg.org/ebooks/8455
